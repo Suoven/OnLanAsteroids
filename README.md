@@ -1,4 +1,6 @@
 # Instructions For Build
+    -There should be a server for the clients to connect, therefore the first time the exe is executed the user should type s to be the server
+	so the rest of the players can connect.
     -To build it you will have to put the resources folder in the same folder as the .exe . Also, you will have to place the config file in the same folder.
     -The project should run in release and debug x86 mode.
     -Once a player wins, the game will close in all the clients and the server in 10 seconds.
