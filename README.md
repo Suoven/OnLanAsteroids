@@ -1,3 +1,8 @@
+# On Lan Asteroids Game
+Implementation of a networking asteroids game in lan for multiple players using UDP
+
+![This is a alt text.](/docs/video.gif) 
+
 # Instructions For Build
     -There should be a server for the clients to connect, therefore the first time the exe is executed the user should type s to be the server
 	so the rest of the players can connect.
@@ -9,7 +14,4 @@
     - When starting you will need to input in the consol 's' to play as a server or 'c' as a client, there is no lobby,
     so the clients will connect straight forward in the game.
     - The player who scores 50 points will win the game.
-
-# Important code
-    - All the network code is located in the game/network folder where all the code for the client and the server is located with the network manager also
 
